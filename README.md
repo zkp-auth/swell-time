@@ -22,6 +22,6 @@ Simple static site using HTML, CSS and JavaScript.
 - Follow the existing code style.
 - Add or update docs for any dev-facing changes.
 
-## Auther
+## Author
 
 Nacir IBRAIMO
